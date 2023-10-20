@@ -1,9 +1,10 @@
 ## Hi, I am Vitaliy! 
 </br>
 
-<div style="margin-bottom: 2cm;">
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codevitaliy&layout=compact&langs_count=16&theme=dracula)](https://github.com/codevitaliy)
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codevitaliy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues)](https://github.com/codevitaliy)
+<div>
+  <a href="https://github.com/codevitaliy">
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codevitaliy&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codevitaliy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
 
 
