@@ -1,11 +1,19 @@
 ## Hi, I am Vitaliy! 
 </br>
 
- <div>
+<style>
+  .github-stats {
+    margin-bottom: 2cm;
+  }
+</style>
+
+<div class="github-stats">
   <a href="https://github.com/codevitaliy">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codevitaliy&layout=compact&langs_count=16&theme=dracula"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codevitaliy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codevitaliy&layout=compact&langs_count=16&theme=dracula"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=codevitaliy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+  </a>
 </div>
+
  
  ## Skills
 <div style="display: inline_block"><br>
