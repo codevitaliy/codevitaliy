@@ -64,12 +64,6 @@
 - **PartyUpp** — Android party app with players, photos, and challenges  
   <a href="https://github.com/codevitaliy/PartyUpp">Repo ↗</a>  
 
-- **backend-reservas** — Spring Boot API for room booking  
-  <a href="https://github.com/codevitaliy/backend-reservas">Repo ↗</a>  
-
-- **PSP Labs** — Java concurrency: threads, monitors, sockets  
-  <a href="https://github.com/codevitaliy/psp-java-c-multithread-networking">Repo ↗</a>  
-
 ---
 
 ## 📊 GitHub Stats
